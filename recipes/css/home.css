@@ -1,0 +1,40 @@
+.header-home {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #81c47b;
+    color:rgb(250, 238, 224);
+    padding: 8px;
+    
+    margin: auto;
+}
+
+.home-img {
+    display: block;
+    width: 97vw;
+    height: auto;
+    margin:auto;
+    margin-top: 10px;
+
+
+}
+
+.recipe-home {
+    text-align: center;
+    list-style: none;
+    line-height: 3;
+    background-color: rgb(250, 238, 224);
+    height: 40vh;
+    width: auto;
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #81c47b;
+}
+
+a:link:hover {
+    font-size: 30px;
+}
