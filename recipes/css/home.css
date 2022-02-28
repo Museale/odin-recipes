@@ -24,13 +24,14 @@ body {
     text-align: center;
     list-style: none;
     line-height: 3;
-    width: auto;
-    margin-top: 50px;
-    margin-left: 6em;
-    margin-right: 6em;
-    font-size: 24px;
+    width: 80vw;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
     border: dashed;
-    padding: 12px;
+    padding: 1em;
+
 }
 
 a:link {

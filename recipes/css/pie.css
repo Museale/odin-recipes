@@ -10,8 +10,7 @@ body {
 
 
 .foodTitle {
-    font-size: 48px;
-    padding: 8px;
+    font-size: 4em;
     font-family: aettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: lighter;
 }
@@ -27,7 +26,7 @@ body {
 
 
 .smol {
-    font-size: 32px;
+    font-size: 2em;
     font-weight: lighter;
 }
 
@@ -37,31 +36,33 @@ body {
 
 #ingredients {
     border: dashed;
-    padding: 8px;
-    margin-top: 40px;
-    margin-left: 6em;
-    margin-right: 6em;
+    width: 80vw;
+    padding: 1em;
+    margin-top: 2em;
+    margin: auto;
 }
 .ingredients {
-   
+    margin: auto;
     font-weight: lighter;
-    font-size: 24px;
+
 }
 
 ul.foods {
+   
     padding: 8px;
-    margin-left: 80px;
-    font-size: 20px;
+    margin-left: 1em;
+    font-size: 1em;
     line-height: 1.8;
     
 }
 
 #steps {
     border: dashed;
-    padding: 8px;
-    margin-top: 40px;
-    margin-left: 6em;
-    margin-right: 6em;
+    width: 80vw;
+    padding: 1em;
+    margin-top: 2em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .stepList {
@@ -75,14 +76,3 @@ ul.foods {
     text-align: center;
 }
 
-@media  only screen and (max-width: 600px) {
-    #ingredients {
-        border: dashed;
-        margin: auto;
-    }
-    #steps {
-        border: dashed;
-        margin: auto;
-    }
-
-}
