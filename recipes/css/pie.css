@@ -43,6 +43,7 @@ body {
     margin-top: 2em;
     margin-left: auto;
     margin-right: auto;
+    background-color: rgb(245, 245, 228);
 }
 
 .ingredients {
@@ -62,10 +63,12 @@ ul.foods {
 #steps {
     border: dashed;
     width: 80vw;
+    height: auto;
     padding: 1em;
     margin-top: 2em;
     margin-left: auto;
     margin-right: auto;
+    background-color: rgb(245, 245, 228);
 }
 
 
