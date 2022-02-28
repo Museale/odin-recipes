@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(245, 239, 214);
+    
+}
+
+.title {
+    text-align: center;
+    text-shadow: 2px 5px 2px rgb(223, 216, 166);
+}
+
+
+.foodTitle {
+    font-size: 48px;
+    padding: 8px;
+    font-family: aettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+}
+
+.lasagnaImg {
+    display: block;
+    margin: auto;
+    width: 80vw;
+    box-shadow: 8px 8px 8px  rgb(211, 208, 185);
+    border-radius: 2em;
+}
+
+
+.smol {
+    font-size: 32px;
+    font-weight: lighter;
+}
+
+#ingredients {
+    border: dashed;
+    padding: 8px;
+    margin-top: 40px;
+}
+.ingredients {
+   
+    font-weight: lighter;
+    font-size: 24px;
+}
+
+ul.foods {
+    padding: 8px;
+    margin-left: 80px;
+    font-size: 20px;
+    line-height: 1.8;
+    
+}
+
+#steps {
+    border: dashed;
+    padding: 8px;
+    margin-top: 40px;
+}
+
+.stepList {
+    line-height: 1.8;
+}
+
+
+.notes {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
