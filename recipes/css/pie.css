@@ -37,6 +37,7 @@ body {
 #ingredients {
     border: dashed;
     width: 80vw;
+    height: auto;
     padding: 1em;
     margin-top: 2em;
     margin-left: auto;
