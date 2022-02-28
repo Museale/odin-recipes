@@ -1,40 +1,45 @@
-.header-home {
-    text-align: center;
-    font-size: 40px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #81c47b;
-    color:rgb(250, 238, 224);
-    padding: 8px;
-    
-    margin: auto;
+body {
+    background-color: rgb(209, 208, 202);
+}
+
+.mainH {
+        text-align: center;
+        font-size: 48px;
+        padding: 8px;
+        font-family: aettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: lighter;
+        text-shadow: 2px 5px 2px rgb(223, 216, 166);
 }
 
 .home-img {
     display: block;
-    width: 97vw;
+    margin: auto;
+    width: 60vw;
     height: auto;
-    margin:auto;
-    margin-top: 10px;
-
-
+    box-shadow: 8px 8px 8px  rgb(211, 208, 185);
+    border-radius: 2em;
 }
 
 .recipe-home {
     text-align: center;
     list-style: none;
     line-height: 3;
-    background-color: rgb(250, 238, 224);
-    height: 40vh;
     width: auto;
-    margin-top: 10px;
+    margin-top: 50px;
+    margin-left: 6em;
+    margin-right: 6em;
     font-size: 24px;
+    border: dashed;
+    padding: 12px;
 }
 
 a:link {
     text-decoration: none;
-    color: #81c47b;
+    color: black;
+    margin: auto;
+  
 }
 
 a:link:hover {
-    font-size: 30px;
+    color: rgb(114, 180, 75);
 }

@@ -15,6 +15,9 @@ body {
     font-family: aettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: lighter;
 }
+.howTo {
+    text-align: center;
+}
 
 .lasagnaImg {
     display: block;
@@ -29,10 +32,6 @@ body {
 .smol {
     font-size: 32px;
     font-weight: lighter;
-}
-
-.howTo {
-    text-align: center;
 }
 
 #ingredients {
